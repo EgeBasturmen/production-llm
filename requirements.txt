@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pydantic
+python-dotenv
+numpy
+rank-bm25
+openai
+google-genai

@@ -1,0 +1,3 @@
+AI Engineer is responsible for building reliable AI systems.
+They integrate LLMs with software systems, monitoring, and guardrails.
+ML Engineers focus more on model training and evaluation.
